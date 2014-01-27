@@ -1,4 +1,6 @@
 ChocolateyPackages
 ==================
 
-Repo of Chocolatey packages that I use for different scenarios
+Repo of [Chocolatey](http://chocolatey.org/) packages that I use for different scenarios.
+
+To execute run cinst PackageName.config
